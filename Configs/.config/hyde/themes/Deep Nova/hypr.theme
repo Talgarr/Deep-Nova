@@ -3,6 +3,7 @@ $HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
 
 $GTK_THEME = Deep-Nova
 $ICON_THEME = Icon_Candy
+$SDDM_THEME = Deep-Nova
 $COLOR_SCHEME = prefer-dark
 
 # Optional: The varibles above will be set automatically when the theme is loaded
@@ -46,7 +47,3 @@ decoration {
 }
 
 layerrule = unset,waybar
-
-input {
-    repeat_delay = 350
-}
